@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36d612a6-51b2-4aed-bba2-fba95255cabe" name="Default" comment="two">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_article/tensquare_article.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_article/tensquare_article.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_base/tensquare_base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_base/tensquare_base.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_common/tensquare_common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_common/tensquare_common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_config/target/app.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_config/target/app.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_config/target/app.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_config/target/app.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_config/target/classes/com/tensquare/config/ConfigApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_config/target/classes/com/tensquare/config/ConfigApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_config/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_config/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_config/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_config/tensquare_config.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_config/tensquare_config.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_eureka/target/classes/com/tensquare/eureka/EurekaServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_eureka/target/classes/com/tensquare/eureka/EurekaServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_eureka/tensquare_eureka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_eureka/tensquare_eureka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_friend/tensquare_friend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_friend/tensquare_friend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_gathering/tensquare_gathering.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_gathering/tensquare_gathering.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_manager/tensquare_manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_manager/tensquare_manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_qa/tensquare_qa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_qa/tensquare_qa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_rabbitmqtest/tensquare_rabbitmqtest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_rabbitmqtest/tensquare_rabbitmqtest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_recruit/tensquare_recruit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_recruit/tensquare_recruit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_search/tensquare_search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_search/tensquare_search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_sms/tensquare_sms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_sms/tensquare_sms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_spit/tensquare_spit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_spit/tensquare_spit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/UserApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/UserApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/config/InterceptorConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/config/InterceptorConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/controller/BaseExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/controller/BaseExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/dao/AdminDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/dao/AdminDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/interceptor/JwtInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/interceptor/JwtInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/pojo/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/pojo/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/AdminService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/AdminService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/AdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/AdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/UserService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/UserService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/target/classes/com/tensquare/user/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_user/tensquare_user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_user/tensquare_user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tensquare_web/tensquare_web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_web/tensquare_web.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tensquare_parent" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Program Files\maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="1RYnES6ovsxMhNj7IlvkTDSDtKw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+    <property name="settings.editor.splitter.proportion" value="0.41095892" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.Docker Image">
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="tensquare_recruit" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tensquare_config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatheringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare_gathering" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.gathering.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.gathering.GatheringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare_sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.sms.SmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tensquare_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tensquare.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tensquare.web.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="command" value="" />
+          <option name="containerName" value="shicifang_config" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="192.168.217.130:5000/tensquare_config:1.0-SNAPSHOT" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="12000" />
+                <option name="hostIp" value="192.168.217.130" />
+                <option name="hostPort" value="12000" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.GatheringApplication" />
+      <item itemvalue="Spring Boot.SmsApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.WebApplication" />
+      <item itemvalue="Docker.Docker Image" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Spring Boot.WebApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.SmsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.30357143" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.execution.services.ServiceModel$ServiceNode@64d9a84" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.execution.services.ServiceModel$ServiceNode@64d9a84" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.execution.services.ServiceModel$ServiceNode@49999aaf" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.execution.services.ServiceModel$ServiceNode@64d9a84" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="com.intellij.execution.services.ServiceModel$ServiceNode@2ee4dab9" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+          <option name="viewType" value="contributor" />
+          <option name="roots">
+            <list>
+              <ServiceState>
+                <option name="contributor" value="com.intellij.docker.view.DockerServiceViewContributor" />
+              </ServiceState>
+            </list>
+          </option>
+        </serviceView>
+      </list>
+    </option>
+    <option name="selectedView" value="0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36d612a6-51b2-4aed-bba2-fba95255cabe" name="Default" comment="" />
+      <created>1569422834188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569422834188</updated>
+      <workItem from="1569422843144" duration="639000" />
+      <workItem from="1569461430032" duration="16428000" />
+      <workItem from="1569582859666" duration="806000" />
+      <workItem from="1569846549424" duration="1053000" />
+      <workItem from="1569850575403" duration="808000" />
+      <workItem from="1569851403935" duration="74000" />
+      <workItem from="1569852790287" duration="203000" />
+      <workItem from="1569853015976" duration="2328000" />
+      <workItem from="1569856059133" duration="1292000" />
+      <workItem from="1569857401986" duration="1740000" />
+      <workItem from="1569905370331" duration="85000" />
+      <workItem from="1569905471826" duration="25000" />
+      <workItem from="1569918828978" duration="1515000" />
+      <workItem from="1569920759576" duration="2789000" />
+    </task>
+    <task id="LOCAL-00001" summary="two">
+      <created>1569423284244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569423284244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="two" />
+    <option name="LAST_COMMIT_MESSAGE" value="two" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
